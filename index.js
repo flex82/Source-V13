@@ -22,13 +22,13 @@ client.once('ready', () => {
   console.log(line);
   console.log(`📊 Connected to  : ${client.guilds.cache.size} servers`);
   console.log(`👥 Total Users   : ${client.users.cache.size}`);
-  console.log(`© 2025 DCODE STUDIO - All Rights Reserved.`);
+  console.log(`© 2025  Dark Developers - All Rights Reserved.`);
   console.log(`🔗 GitHub: https://github.com/flex82/`);
-  console.log(`💬 Discord: https://discord.gg/S7VRPqvn2r`);
+  console.log(`💬 Discord: https://discord.gg/YtfcfeDD5c`);
   console.log(line);
   console.log('✅ Bot is fully operational and ready to serve!');
   console.log(line);
-  client.user.setActivity(`# ~ DCODE STUDIO`, { type: 'WATCHING' })
+  client.user.setActivity(`# ~ Dark Developers`, { type: 'WATCHING' })
 client.user.setStatus("idle");
 });
 const prefix = "-"
